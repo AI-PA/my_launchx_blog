@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-pa.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Título de tu blog post</title>
+      <link>https://ai-pa.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-pa.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>el proyecto del backend , se pretende desarrollar las habilidades necesarias para mejorar las bases de datos y mejorar el use del lenguaje de javascript de parte del framework nodejs.</description>
+    </item>
+    
+    <item>
       <title>Mis expectativas y La cultrua del Desarrollador de Software.</title>
       <link>https://ai-pa.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
