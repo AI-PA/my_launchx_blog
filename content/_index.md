@@ -10,5 +10,6 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
  - Aprender acerca del Back-end.
  - Aplicar los concocimientos de Front-end y Back-end en los proyectos que se me encargen. 
  - Divertirme mucho aprendiendo y diseñando los retos que nos propongan.
- - Compartir mis conocimientos con los demás.
-🚀
+ - Compartir mis conocimientos con los demás.🚀
+
+Creditos del diseño y programacion a : Carlogilmar
