@@ -9,7 +9,8 @@ description: 'Un nuevo comienzo'
 > este proyecto a media. 
 1. El centrarme mas en la univerisdad. 
 2. Mi mala gestion del tiempo. 
-3. Priorizar Socializar que estar terminando estos proyectos. 
+3. Priorizar Socializar que estar terminando estos proyectos.
+
 estas fueron las razones principales por las cuales tuve que dejar launchX de forma incompleta, pero una vez ya soluccionados 
 estos problemas, creo que es hora de acabar esto como se debe. 
 así que vamos a terminar este proyecto de la manera en la que debio a ver sido. 
