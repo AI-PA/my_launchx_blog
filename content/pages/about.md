@@ -9,13 +9,11 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Hola, mucho gusto soy Alan Paz, acutalmente le estoy dando continuacion al programa
+> de LaunchX para acabar con aquello que quedo pendiente y a través de este blog 
+> compartire mi experiencias aprendiendo lo que me falta de NodeJs y FrontEnd.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Queremos la Champions*** el objetivo ante todo es terminar todas las semanas que me faltaron 
+pero sobre todo aprender bien las bases y las estructuras para poder sacarle provecho a todo lo
+que la información que se me dio y con ello terminar y empezar proyectos a como pase el tiempo.
 
