@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Alan Paz.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-pa.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ai-pa.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empezamos curso JS</title>
+      <link>https://ai-pa.github.io/my_launchx_blog/posts/post_5/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai-pa.github.io/my_launchx_blog/posts/post_5/</guid>
+      <description>Empezando JS empezamos la creación de un repositorio llamado JavaScript_Practice donde actualmente tomare notas y codigo para mejorar mi aprendizaje con JS. además de practicar tambien HTML y CSS con ello tambien tendre en cuenta el desarrollar tambien el curso de NodeJS solo falta la manera de ajustar el tiempo para que se de y el aprendizaje de los temas no sea tan pesado y cansado además de poder practicarlo.</description>
+    </item>
+    
     <item>
       <title>Actualizacion de días inactivos</title>
       <link>https://ai-pa.github.io/my_launchx_blog/posts/post_4/</link>
