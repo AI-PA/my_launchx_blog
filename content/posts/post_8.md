@@ -15,6 +15,8 @@ cuando utlizar map en ves de un objeto.
 Aun me siento incomodo con toda la informacion que tengo que aprender y la verdad no se como pudieron lograrlo aquellos que si terminaron a tiempo, pero
 si lo terminaron significa que yo tambien puedo. 
 
+![LaunchX Semana3_Live1](https://user-images.githubusercontent.com/17634377/163923555-59a07a3c-09d7-4644-a828-3a573f6801bf.png)
+
 ## Aprendizaje Python. 
 
 Respecto a el porque voy a aprender Python es para tener una mejor base tanto de la programacion orientada a objetos como algunos conceptos que talvez yo 
